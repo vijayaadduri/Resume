@@ -38,16 +38,11 @@ root/
 
 ---
 
-## 📸 Screenshot
-
-> ![Portfolio Screenshot](https://via.placeholder.com/900x400.png?text=Insert+Screenshot+Here)
-
----
 
 ## 🔗 Live Demo
 
 Click here to view the live site:  
-**[rayudu.github.io/your-portfolio]("vijayaadduri.github.io/rayudu/)**  
+**[rayudu.github.io/your-portfolio]("https://vijayaadduri.github.io/rayudu/)**  
 
 
 ---

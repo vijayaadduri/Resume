@@ -41,7 +41,7 @@ root/
 ## 🔗 Live Demo
 
 Click here to view the live site:  
-👉 [https://vijayaadduri.github.io/rayudu/](https://vijayaadduri.github.io/rayudu/)
+👉 [https://vijayaadduri.github.io/Resume/](https://vijayaadduri.github.io/Resume/)
 
 ---
 

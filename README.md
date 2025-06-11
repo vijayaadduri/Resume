@@ -38,27 +38,29 @@ root/
 
 ---
 
-
 ## 🔗 Live Demo
 
 Click here to view the live site:  
-**[rayudu.github.io/your-portfolio]("https://vijayaadduri.github.io/rayudu/)**  
-
+👉 [https://vijayaadduri.github.io/rayudu/](https://vijayaadduri.github.io/rayudu/)
 
 ---
 
 ## 📄 Resume
 
-> You can download my resume directly from the website using the "Download Resume" button on the homepage.
+The website includes a **Download Resume** button which allows users to download `Rayudu_Resume.pdf` directly from the homepage.
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-- 📧 Email: [rayuduaddurui111@gmail.com](mailto:rayuduaddurui111@gmail.com)  
-- 📱 Phone: 8639660069
+- 📧 Email: [rayuduaddurui111@gmail.com](mailto:rayuduaddurui111@gmail.com)
+- 📱 Phone: +91 8639660069
+- 🐱 GitHub: [https://github.com/vijayaadduri](https://github.com/vijayaadduri)
 
 ---
+
+
+
 
 ## 📌 How to Run Locally
 

@@ -19,11 +19,11 @@ This is my personal portfolio website showcasing my background, education, proje
 ## 📁 Folder Structure
 
 root/
-│
-├── index.html # Main HTML file
-├── photonew.jpg # Profile picture
-├── Rayudu_Resume.pdf # Resume file (optional)
-└── README.md # This file
+  ├── index.html         → Main HTML file  
+  ├── photonew.jpg       → Profile picture  
+  ├── Rayudu_Resume.pdf  → Resume file (optional)  
+  └── README.md          → This file  
+
 
 
 ---
